@@ -20,6 +20,7 @@ public class LoopsEndingRemembering {
                 System.out.println("Thank you and see you later!");
                 System.out.println("The sum is " + sum);
                 System.out.println("How many numbers: " + i);
+                System.out.println("Average: " + (sum / i));
                 break;
             } else {
                 sum += number;
