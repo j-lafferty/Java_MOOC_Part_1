@@ -8,14 +8,19 @@ public class LoopsEndingRemembering {
         Scanner reader = new Scanner(System.in);
         System.out.println("Type numbers: ");
         int number;
+        int sum = 0;
         
         while (true) {
             number = Integer.parseInt(reader.nextLine());
             System.out.println(number);
             
+            
             if (number == -1) {
                 System.out.println("Thank you and see you later!");
+                System.out.println("The sum is " + sum);
                 break;
+            } else {
+                sum += number;
             }
         }
         
