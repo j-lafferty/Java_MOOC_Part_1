@@ -10,6 +10,8 @@ public class LoopsEndingRemembering {
         int number;
         int sum = 0;
         int i = 0;
+        int even = 0;
+        int odd = 0;
         
         while (true) {
             number = Integer.parseInt(reader.nextLine());
@@ -21,10 +23,17 @@ public class LoopsEndingRemembering {
                 System.out.println("The sum is " + sum);
                 System.out.println("How many numbers: " + i);
                 System.out.println("Average: " + (sum / i));
+                System.out.println("Even numbers: " + even);
+                System.out.println("Odd numbers: " + odd);
                 break;
             } else {
                 sum += number;
                 i++;
+                if (number % 2 == 0) {
+                    even++;
+                } else {
+                    odd++;
+                }
             }
         }
         
