@@ -6,6 +6,20 @@ public class LoopsEndingRemembering {
         // actually this is just one program that is split in many parts
         
         Scanner reader = new Scanner(System.in);
+        System.out.println("Type numbers: ");
+        int number;
+        
+        while (true) {
+            number = Integer.parseInt(reader.nextLine());
+            System.out.println(number);
+            
+            if (number == -1) {
+                System.out.println("Thank you and see you later!");
+                break;
+            }
+        }
+        
+        
 
     }
 }
