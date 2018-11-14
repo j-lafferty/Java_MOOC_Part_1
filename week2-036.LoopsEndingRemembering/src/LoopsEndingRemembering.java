@@ -9,6 +9,7 @@ public class LoopsEndingRemembering {
         System.out.println("Type numbers: ");
         int number;
         int sum = 0;
+        int i = 0;
         
         while (true) {
             number = Integer.parseInt(reader.nextLine());
@@ -18,9 +19,11 @@ public class LoopsEndingRemembering {
             if (number == -1) {
                 System.out.println("Thank you and see you later!");
                 System.out.println("The sum is " + sum);
+                System.out.println("How many numbers: " + i);
                 break;
             } else {
                 sum += number;
+                i++;
             }
         }
         
