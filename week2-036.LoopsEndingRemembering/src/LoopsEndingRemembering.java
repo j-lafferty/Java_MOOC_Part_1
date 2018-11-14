@@ -22,7 +22,7 @@ public class LoopsEndingRemembering {
                 System.out.println("Thank you and see you later!");
                 System.out.println("The sum is " + sum);
                 System.out.println("How many numbers: " + i);
-                System.out.println("Average: " + (sum / i));
+                System.out.println("Average: " + (sum / (i * 1.0)));
                 System.out.println("Even numbers: " + even);
                 System.out.println("Odd numbers: " + odd);
                 break;
