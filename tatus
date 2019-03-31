@@ -1,0 +1,251 @@
+[33mcommit 4b45da8a09bd45a40bdadb2d10dc36340beb24f5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Tue Nov 13 21:02:02 2018 -0800
+
+    Fix average to be a floating point number
+
+[33mcommit f989be2b92645884bacc6d7bab94ff24e27a3db0[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Tue Nov 13 20:59:09 2018 -0800
+
+    Add solution; count even and odd numbers
+
+[33mcommit e5b4219e2145e363edde7c2f4c11a428784c787b[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Tue Nov 13 20:56:45 2018 -0800
+
+    Add solution; count average
+
+[33mcommit 436e4bdcb1ecc00209025ab77fce6d1b10a99192[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Tue Nov 13 20:53:27 2018 -0800
+
+    Add solution; count numbers
+
+[33mcommit d9b6df208f4dd190291b7450928e59821636204a[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Tue Nov 13 20:51:53 2018 -0800
+
+    Add solution; sum numbers
+
+[33mcommit 34cae26329f8a1134bd7406aed79203fb10a4802[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Tue Nov 13 20:48:13 2018 -0800
+
+    Add solution; reading numbers
+
+[33mcommit 80d2d416796bc7cf10fe51334ae3ab2c274a2d77[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Mon Nov 12 21:11:40 2018 -0800
+
+    Add solution
+
+[33mcommit 7957fbcdacd983702945c87e62f424db11409ff6[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Mon Nov 12 21:03:39 2018 -0800
+
+    Add solution
+
+[33mcommit a41629aa13485859f34e221ec559d38e6073ef94[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Sun Nov 11 21:02:42 2018 -0800
+
+    Add solution
+
+[33mcommit c55a9937790468584b65859f132fc5d4cf37a877[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Sun Nov 11 20:58:31 2018 -0800
+
+    Add solution
+
+[33mcommit e1d963f687ba4de3298d00fda63f6e6d84c24713[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Sat Nov 10 21:56:36 2018 -0800
+
+    Add solution
+
+[33mcommit 8bf462ab720c5667c298bc72d478831ac100dd50[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Sat Nov 10 21:50:09 2018 -0800
+
+    add solution
+
+[33mcommit 36165ac2c90ec01c9093282e5843427c548c33ad[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Sat Nov 10 21:48:05 2018 -0800
+
+    Add solution
+
+[33mcommit 7acab10043537323bd27392ae050362bce83c782[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Sat Nov 10 21:45:55 2018 -0800
+
+    Add solution
+
+[33mcommit f3f3dccb73eedcc4e6ec82879549ec306825c762[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Thu Nov 8 21:07:25 2018 -0800
+
+    Add solution
+
+[33mcommit 9519f49a98d5ba04a1e06ece74bd15872836919e[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Thu Nov 8 21:05:17 2018 -0800
+
+    Add solution
+
+[33mcommit 514effa8962efb9928086b5a127e82b8a7047c5c[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Thu Nov 8 20:54:08 2018 -0800
+
+    Add week 2 exercises
+
+[33mcommit 7a6e828652dc16dc719b33a5aaa118ec175c0e3c[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Thu Nov 8 20:51:11 2018 -0800
+
+    Add solution
+
+[33mcommit 494d8264c248c4b767a1d65feb5130675183a3f7[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Wed Nov 7 12:22:04 2018 -0800
+
+    Add solution
+
+[33mcommit 9c3121d234827c7665140a643ac28fd3ebd1ef29[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Wed Nov 7 11:58:00 2018 -0800
+
+    Add solution
+
+[33mcommit c840fe9e32ed148bac4061fb4c24a5bd1dc47b38[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Tue Nov 6 15:31:05 2018 -0800
+
+    Add solution
+
+[33mcommit 3080f431f6ff90d7c97c45ffbaf701e077f04247[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Tue Nov 6 12:06:58 2018 -0800
+
+    Add solution
+
+[33mcommit a642a8ce445a3c5692f94878b6539865ca68b6c9[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Tue Nov 6 11:58:18 2018 -0800
+
+    Add solution
+
+[33mcommit 2a99632a043d4935b1a0a607c939a15046d3fed9[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Tue Nov 6 10:54:48 2018 -0800
+
+    Add solution
+
+[33mcommit a08aac1b4480e11866b1cb04dda22bb897c4abe5[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Sun Nov 4 19:45:33 2018 -0800
+
+    Add solution
+
+[33mcommit b815d5e6ebf302f5d0e965f33be243c5b993bc5d[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Sun Nov 4 19:42:48 2018 -0800
+
+    Add solution
+
+[33mcommit 20b8015f5db6009a11fa4d1a1ef7926b2a273634[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Sun Nov 4 19:40:09 2018 -0800
+
+    Add solution
+
+[33mcommit 91cf9910acf731a2e84dcc63cc37f6e887640713[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Tue Oct 30 20:55:09 2018 -0700
+
+    Add Solution
+
+[33mcommit da59fb1dfde24d18e89669d87c4edf3d64317de1[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Sun Oct 28 20:06:15 2018 -0700
+
+    Add solution
+
+[33mcommit 86fe00f6c70b3b00edf28b46e89dfb2cb365d906[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Sun Oct 28 19:59:40 2018 -0700
+
+    Add solution
+
+[33mcommit 4e7822c2d5ccb40abdfb3e38f73711617a6229ed[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Fri Oct 26 21:31:57 2018 -0700
+
+    Add solution
+
+[33mcommit feb22727295282ff2c469ab3e9896d5b68f52929[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Fri Oct 26 21:07:01 2018 -0700
+
+    Add solution
+
+[33mcommit d686bfac619947898c9077270602fdbde70b6c03[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Fri Oct 26 20:52:11 2018 -0700
+
+    Add solution
+
+[33mcommit e9ee8edf494289974f40fa5646c1738c73dc4651[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Fri Oct 26 20:42:25 2018 -0700
+
+    Add solution
+
+[33mcommit 004c862ff6e0326a177b627bee7f3563d146d456[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Fri Oct 26 20:35:23 2018 -0700
+
+    Add solution
+
+[33mcommit e36548c4aa2de9264e6495ce1973dcc1a669b550[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Fri Oct 26 20:33:11 2018 -0700
+
+    Add solution
+
+[33mcommit 496235638587c3325fe007818dcbc47b6762d5f2[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Fri Oct 26 14:16:36 2018 -0700
+
+    Add solution
+
+[33mcommit 6efb6f33f2e85f273bdf3c447ee5a620b10a6dac[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Fri Oct 26 14:12:11 2018 -0700
+
+    Add solution
+
+[33mcommit fa55fd56f5179cf98d89496ed8ac72f227a2af62[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Fri Oct 26 12:59:18 2018 -0700
+
+    Add solution
+
+[33mcommit adf26eee5cd6a6ede6e0747c04c100454dad2ba3[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Fri Oct 26 12:53:58 2018 -0700
+
+    Add solution
+
+[33mcommit 079bb65af311adcb53771a72145c1aa343e0d5ec[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Fri Oct 26 12:49:24 2018 -0700
+
+    Add .gitignore for IntelliJ files
+
+[33mcommit d662598bdc41eef68bdec76f4975c4a34a856276[m
+Author: James Lafferty <james@j-lafferty.net>
+Date:   Thu Oct 25 21:07:52 2018 -0700
+
+    Initial commit
