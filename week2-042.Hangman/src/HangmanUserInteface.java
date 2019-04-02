@@ -34,6 +34,8 @@ public class HangmanUserInteface {
                 printMenu();
                 System.out.println("");
             }
+            hangman.printMan();
+            hangman.printWord();
         }
 
 
