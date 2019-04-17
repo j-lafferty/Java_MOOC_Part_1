@@ -3,6 +3,14 @@ import java.util.Collections;
 
 public class RemoveLast {
     public static void removeLast(ArrayList<String> list) {
+
+        int i = 0;
+
+        for (String item : list) {
+            i++;
+        }
+
+        list.remove(i - 1);
     }
 
     public static void main(String[] args) {
