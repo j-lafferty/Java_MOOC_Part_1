@@ -3,6 +3,15 @@ import java.util.ArrayList;
 public class NumberOfItems {
 
     // implement here the method countItems
+    public static int countItems(ArrayList<String> list) {
+        int i = 0;
+
+        for (String item : list) {
+            i++;
+        }
+
+        return i;
+    }
 
     public static void main(String[] args) {
         ArrayList<String> list = new ArrayList<String>();
@@ -11,7 +20,7 @@ public class NumberOfItems {
         list.add("Hello");
         System.out.println("There are this many items on the list:");
         // You can remove the comment from below when the method is done
-        //System.out.println(countItems(list)); 
+        System.out.println(countItems(list));
     }
 
 }
