@@ -3,7 +3,15 @@ import java.util.ArrayList;
 public class TheGreatest {
     public static int greatest(ArrayList<Integer> list) {
         // write code here
-        return 0;
+        int i = list.get(0);
+
+        for (int item : list) {
+            if (i < item) {
+                i = item;
+            }
+
+        }
+        return i;
     }
 
     public static void main(String[] args) {
