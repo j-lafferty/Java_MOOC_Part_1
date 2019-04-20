@@ -4,7 +4,13 @@ public class Palindromi {
 
     public static boolean palindrome(String text) {
         // write code here
-        return false;
+        String result = "";
+        int j = text.length();
+
+        for (int i = 1; i <= j; i++) {
+            result += text.charAt(j - i);
+        }
+        return result.equals(text);
     }
 
     public static void main(String[] args) {
